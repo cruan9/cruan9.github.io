@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+.introduction {
+    padding: 4px;
+    font-size: 24px;
+    color: white;
+    font-family: Dosis;
+    text-align: center;
+}
+.name {
+    padding: 4px;
+    font-size: 100px;
+    color: white;
+    font-family: Dosis;
+    font-weight: bold;
+    text-align: center
+}
+.interests {
+    padding: 4px;
+    font-size: 24px;
+    color: white;
+    font-family: Dosis;
+    text-align: center;
+}
+.icons{
+    width: 75px;
+}
+.social-media{
+    position: fixed;
+    left: 0.5%;
+    top: 37%;
+    height: 70px;
+    width: 70px;
+}
