@@ -8,28 +8,24 @@ body{
     font-family: verdana;
     text-align: center;
 }
-.resume-intro {
+p {
     padding: 4px;
     font-size: 24px;
+    color: white;
+    font-family: verdana;
+    text-align: center;
+}
+h1 {
+    padding: 4px;
+    font-size: 100px;
     color: white;
     font-family: verdana;
     text-align: center;
 }
 .name {
-    padding: 4px;
-    font-size: 100px;
-    color: white;
-    font-family: verdana;
     font-weight: bold;
-    text-align: center
 }
-.interests {
-    padding: 4px;
-    font-size: 24px;
-    color: white;
-    font-family: verdana;
-    text-align: center;
-}
+
 .footer {
     padding: 4px;
     font-size: 10px;
@@ -40,10 +36,12 @@ body{
 #social-media {
 	display: flex;
 	flex-direction: row;
+    padding: 10px 0px 0px 10px;
 }
 .icons{
     height: 50px;
     width: 50px;
+    padding: 5px;
 }
 
 #resume {
